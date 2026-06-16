@@ -6,4 +6,5 @@ I'm José Luis a soon-to-graduate engineer in Data Science and Engineering. Duri
 ____
 ## My favorite Projects ⭐:
 [📸🚗Final Project - Object Detection Model](https://github.com/JLuisAlmendarez/Final-Project-Object-Detection-Model)
+<br>
 [🌀 NS Surrogate Models Rewrite](https://github.com/JLuisAlmendarez/ns-surrogate-models-rewrite)
