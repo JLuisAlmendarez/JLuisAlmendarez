@@ -27,11 +27,7 @@ ____
 ![Optimization](https://img.shields.io/badge/Optimization-Mathematical%20Modeling-green?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLMs-Generative%20AI-purple?style=flat-square)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-social?style=social&logo=docker)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
 
 ## Want to learn 🧩:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
