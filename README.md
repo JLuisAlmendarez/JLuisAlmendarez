@@ -13,26 +13,36 @@ ____
 <br>
 [🌀༄ NS Surrogate Models Rewrite](https://github.com/JLuisAlmendarez/ns-surrogate-models-rewrite)
 ____
-### Current Stack: 
+## Current Stack: 
+#### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+#### Machine Learning & AI
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-orange?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-red?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Optimization](https://img.shields.io/badge/Optimization-Mathematical%20Modeling-green?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-Generative%20AI-purple?style=flat-square)
 
+#### Data & Cloud
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
+#### Development
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-Scrum%20%26%20Kanban-009FDA?style=flat-square)
 
+#### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-### Want to learn:
+
+
+## Want to learn:
 
 ____
 ### Connect With me:
