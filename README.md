@@ -30,7 +30,6 @@ ____
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -40,6 +39,7 @@ ____
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=flat-square)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-2563EB?style=flat&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
@@ -51,7 +51,12 @@ ____
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:almendarez1002@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:jose.almendarez@iteso.mx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-almendarez/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-social?style=social&logo=gmail)](mailto:almendarez1002@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-social?style=social&logo=microsoft-outlook)](mailto:jose.almendarez@iteso.mx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-social?style=social&logo=linkedin)](https://www.linkedin.com/in/jose-luis-almendarez/)
 ___
 ### Looking Foward to Collaborate Accademically: 
 * Physics Representation in Machine Learning
 * Portafolio Optimization & Trade Strategies Based in AI
+* Autonomous Systems
