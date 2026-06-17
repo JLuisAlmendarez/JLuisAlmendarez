@@ -39,7 +39,6 @@ ____
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=flat-square)
-
 ![MCP](https://img.shields.io/badge/MCP-2563EB?style=flat&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
@@ -51,3 +50,7 @@ ____
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:almendarez1002@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:jose.almendarez@iteso.mx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-almendarez/)
+___
+### Looking Foward to Collaborate Accademically: 
+* Physics Representation in Machine Learning
+* Portafolio Optimization & Trade Strategies Based in AI
