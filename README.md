@@ -51,10 +51,6 @@ ____
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:almendarez1002@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:jose.almendarez@iteso.mx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-almendarez/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-social?logo=gmail)](mailto:almendarez1002@gmail.com)
-[![Outlook](https://img.shields.io/badge/Outlook-social?logo=maildotru)](mailto:jose.almendarez@iteso.mx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-social?logo=lerna)](https://www.linkedin.com/in/jose-luis-almendarez/)
 ___
 ### Looking Foward to Collaborate Accademically: 
 * Physics Representation in Machine Learning
