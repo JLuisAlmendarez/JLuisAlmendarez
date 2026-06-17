@@ -13,7 +13,7 @@ ____
 <br>
 [🌀༄ NS Surrogate Models Rewrite](https://github.com/JLuisAlmendarez/ns-surrogate-models-rewrite)
 ____
-## Current Stack: 
+## Current Stack 🗐: 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
@@ -36,16 +36,22 @@ ____
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-Scrum%20%26%20Kanban-009FDA?style=flat-square)
-
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 #### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 
 ## Want to learn:
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blue?style=flat-square)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ____
 ### Connect With me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:almendarez1002@gmail.com)
 [![Outlook](https://img.shields.io/badge/ITESO-Mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:jose.almendarez@iteso.mx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose%20Luis%20Almendarez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-almendarez/)
