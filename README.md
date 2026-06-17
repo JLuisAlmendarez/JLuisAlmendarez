@@ -12,3 +12,14 @@ ____
 [📸🚗Final Project - Object Detection Model(Refine Presentation)](https://github.com/JLuisAlmendarez/Final-Project-Object-Detection-Model)
 <br>
 [🌀༄ NS Surrogate Models Rewrite](https://github.com/JLuisAlmendarez/ns-surrogate-models-rewrite)
+____
+### Current Stack: 
+
+### Want to learn:
+
+____
+### Connect With me:
+
+[![Gmail](https://img.shields.io/badge/Gmail-almendarez1002%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:almendarez1002@gmail.com)
+
+[![Outlook](https://img.shields.io/badge/Outlook-jose.almendarez%40iteso.mx-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:jose.almendarez@iteso.mx)
