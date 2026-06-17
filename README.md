@@ -27,7 +27,13 @@ ____
 ![Optimization](https://img.shields.io/badge/Optimization-Mathematical%20Modeling-green?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLMs-Generative%20AI-purple?style=flat-square)
 
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-009FDA?style=flat)
 
 ## Want to learn 🧩:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
