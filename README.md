@@ -59,6 +59,6 @@ ____
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-almendarez/)
 ___
 ### Looking Foward to Collaborate Accademically: 
-* Physics Representation in Machine Learning
 * Portafolio Optimization & Trade Strategies Based in AI
 * Autonomous Systems
+* Physics Representation in Machine Learning
