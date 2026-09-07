@@ -7,15 +7,11 @@ ____
 ## My Favorite Projects ⭐:
 [⚙️🏈 American Fantasy Football Draft ML assistant](https://github.com/JLuisAlmendarez/DraftFantasy)
 <br>
-[🔄📈 Neural Network Training Study](https://github.com/JLuisAlmendarez/NN_Training_Study)
-<br>
 [🔵🔷 Variational Auto-Encoder](https://github.com/JLuisAlmendarez/Project1-autoencoder)
 <br>
 [⛰️🏠 Houses Features Statistical Research](https://github.com/JLuisAlmendarez/UrbProyect2025-2026)
 <br>
 [🌆🗳️ The INE Project (Refine Presentation)](https://github.com/JLuisAlmendarez/NotebooksMineriaDeTexto) 
-<br>
-[📸🚗 Object Detection Model (Refine Presentation)](https://github.com/JLuisAlmendarez/Final-Project-Object-Detection-Model)
 <br>
 [🌀༄ NS Surrogate Models Rewrite](https://github.com/JLuisAlmendarez/ns-surrogate-models-rewrite)
 ____
