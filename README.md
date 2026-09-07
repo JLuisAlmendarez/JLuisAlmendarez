@@ -5,15 +5,15 @@ ___
 I'm José Luis a soon-to-graduate engineer in Data Science and Engineering. During my studies i have put all my effort in produce projects of high academic demand and contemporary to actual trends. I hope my portafolio satisfy that.  
 ____
 ## My Favorite Projects ⭐:
-[⚙️🏈 American Fantasy Football Draft ML assistant](https://github.com/JLuisAlmendarez/DraftFantasy)
+[⚙️ American Fantasy Football Draft ML assistant](https://github.com/JLuisAlmendarez/DraftFantasy)
 <br>
-[🔵🔷 Variational Auto-Encoder](https://github.com/JLuisAlmendarez/Project1-autoencoder)
+[🔷 Variational Auto-Encoder](https://github.com/JLuisAlmendarez/Project1-autoencoder)
 <br>
-[⛰️🏠 Houses Features Statistical Research](https://github.com/JLuisAlmendarez/UrbProyect2025-2026)
+[🏠 Houses Features Statistical Research](https://github.com/JLuisAlmendarez/UrbProyect2025-2026)
 <br>
-[🌆🗳️ The INE Project (Refine Presentation)](https://github.com/JLuisAlmendarez/NotebooksMineriaDeTexto) 
+[🗳️ The INE Project (Refine Presentation)](https://github.com/JLuisAlmendarez/NotebooksMineriaDeTexto) 
 <br>
-[🌀༄ NS Surrogate Models Rewrite](https://github.com/JLuisAlmendarez/ns-surrogate-models-rewrite)
+[🌀 NS Surrogate Models Rewrite](https://github.com/JLuisAlmendarez/ns-surrogate-models-rewrite)
 ____
 ## Current Stack 💾: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
