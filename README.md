@@ -1,9 +1,7 @@
 ___
 # Hello, I'm José Luis 👋
 <br>
-A soon-to-graduate engineer in Data Science and Engineering. I like taking
-on projects that go beyond coursework. This portfolio is where I keep the
-projects that best show how I think and build.
+A soon-to-graduate engineer in Data Science and Engineering. I like taking on projects that go beyond coursework. This portfolio is where I keep the projects that best show how I think and build.
 ____
 ## My Favorite Projects ⭐:
 [⚙️ American Fantasy Football Draft ML assistant](https://github.com/JLuisAlmendarez/American-Fantasy-Football-Draft-ML-project)
