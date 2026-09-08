@@ -1,6 +1,6 @@
 ___
 # Hello, I'm José Luis 👋
-<br>
+ 
 A soon-to-graduate engineer in Data Science and Engineering. I like taking on projects that go beyond coursework. This portfolio is where I keep the projects that best show how I think and build.
 ____
 ## My Favorite Projects ⭐:
@@ -10,7 +10,7 @@ ____
 <br>
 [🏠 Houses Features Statistical Research](https://github.com/JLuisAlmendarez/urban-data-analysis-dhdu)
 <br>
-[🗳️ INE 2024 Presidential Debate](https://github.com/JLuisAlmendarez/signalab-ine-debate2024) 
+[🗳️ INE 2024 Presidential Debate](https://github.com/JLuisAlmendarez/signalab-ine-debate2024)
 <br>
 [🌀 NS-GAN Surrogate Model](https://github.com/JLuisAlmendarez/GA-FNO-CFD)
 ____
