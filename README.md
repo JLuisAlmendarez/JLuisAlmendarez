@@ -5,17 +5,17 @@ ___
 I'm José Luis a soon-to-graduate engineer in Data Science and Engineering. During my studies i have put all my effort in produce projects of high academic demand and contemporary to actual trends. I hope my portafolio satisfy that.  
 ____
 ## My Favorite Projects ⭐:
-[⚙️ American Fantasy Football Draft ML assistant](https://github.com/JLuisAlmendarez/DraftFantasy)
+[⚙️ American Fantasy Football Draft ML assistant](https://github.com/JLuisAlmendarez/American-Fantasy-Football-Draft-ML-project)
 <br>
-[🔷 Variational Auto-Encoder](https://github.com/JLuisAlmendarez/Project1-autoencoder)
+[🔷 Variational Auto-Encoder](https://github.com/JLuisAlmendarez/autoencoder)
 <br>
-[🏠 Houses Features Statistical Research](https://github.com/JLuisAlmendarez/UrbProyect2025-2026)
+[🏠 Houses Features Statistical Research](https://github.com/JLuisAlmendarez/urban-data-analysis-dhdu)
 <br>
-[🗳️ The INE Project (Refine Presentation)](https://github.com/JLuisAlmendarez/NotebooksMineriaDeTexto) 
+[🗳️ INE 2024 Presidential Debate](https://github.com/JLuisAlmendarez/signalab-ine-debate2024) 
 <br>
-[🌀 NS Surrogate Models Rewrite](https://github.com/JLuisAlmendarez/ns-surrogate-models-rewrite)
+[🌀 NS-GAN Surrogate Model](https://github.com/JLuisAlmendarez/GA-FNO-CFD)
 ____
-## Current Stack 💾: 
+## Stack 💾: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -39,7 +39,7 @@ ____
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-009FDA?style=flat)
 
-## Want to learn 🧩:
+## In progress 🧩:
 ![MCP](https://img.shields.io/badge/MCP-2563EB?style=flat&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
