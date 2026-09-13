@@ -6,11 +6,11 @@ ____
 ## My Favorite Projects ⭐:
 [⚙️ American Fantasy Football Draft ML assistant](https://github.com/JLuisAlmendarez/American-Fantasy-Football-Draft-ML-project)
 <br>
-[🔷 Variational Auto-Encoder](https://github.com/JLuisAlmendarez/autoencoder)
-<br>
 [🏠 Houses Features Statistical Research](https://github.com/JLuisAlmendarez/urban-data-analysis-dhdu)
 <br>
 [🗳️ INE 2024 Presidential Debate](https://github.com/JLuisAlmendarez/signalab-ine-debate2024)
+<br>
+[🔷 Variational Auto-Encoder](https://github.com/JLuisAlmendarez/autoencoder)
 <br>
 [🌀 NS-GAN Surrogate Model](https://github.com/JLuisAlmendarez/GA-FNO-CFD)
 ____
