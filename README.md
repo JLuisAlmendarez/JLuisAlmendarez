@@ -6,7 +6,7 @@ ____
 ## My Favorite Projects ⭐:
 [⚙️ Cloud ML Pipeline](https://github.com/JLuisAlmendarez/cloud-ml-pipeline)
 <br>
-[🏠 Houses Features Statistical Research](https://github.com/JLuisAlmendarez/urban-data-analysis-dhdu)
+[🏠 Urban Statistical Research](https://github.com/JLuisAlmendarez/urban-data-analysis-dhdu)
 <br>
 [🗳️ INE 2024 Presidential Debate](https://github.com/JLuisAlmendarez/signalab-ine-debate2024)
 <br>
