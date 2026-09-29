@@ -37,7 +37,7 @@ A soon-to-graduate engineer in Data Science and Engineering. I like taking on pr
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat\&logo=terraform\&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat\&logo=kubernetes\&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-2563EB?style=flat\&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-009FDA?style=flat)
+![pm methodologies](https://img.shields.io/badge/Agile-009FDA?style=flat)
 
 ## Connect With me:
 
