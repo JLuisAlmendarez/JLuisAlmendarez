@@ -26,18 +26,19 @@ A soon-to-graduate engineer in Data Science and Engineering. I like taking on pr
 ![Optimization](https://img.shields.io/badge/Optimization-Mathematical%20Modeling-green?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLMs-Generative%20AI-purple?style=flat-square)
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat\&logo=databricks\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat\&logo=neo4j\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat\&logo=apachekafka\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonaws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat\&logo=streamlit\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat\&logo=terraform\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat\&logo=kubernetes\&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-2563EB?style=flat\&logoColor=white)
-![PM Methodologies](https://img.shields.io/badge/PM%20Methodologies-009FDA?style=flat)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-2563EB?style=flat-square&logoColor=white)
+![PM Methodologies](https://img.shields.io/badge/PM%20Methodologies-009FDA?style=flat-square)
 
 ## Connect With me:
 
