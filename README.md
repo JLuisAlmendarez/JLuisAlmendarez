@@ -25,8 +25,8 @@ A soon-to-graduate engineer in Data Science and Engineering. I like taking on pr
 ![PyTorch](https://img.shields.io/badge/PyTorch-Framework-6D28D9?style=flat-square&logo=pytorch&logoColor=white&labelColor=1F2937)
 ![Optimization](https://img.shields.io/badge/Optimization-Mathematical%20Modeling-7C3AED?style=flat-square&labelColor=1F2937)
 ![LLMs](https://img.shields.io/badge/LLMs-Generative%20AI-8B5CF6?style=flat-square&labelColor=1F2937)
-
 ![MCP](https://img.shields.io/badge/MCP-Agents-9D6BF7?style=flat-square&labelColor=1F2937)
+
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
