@@ -12,8 +12,6 @@ A soon-to-graduate engineer in Data Science and Engineering. I like taking on pr
 
 ## Stack 💾:
 
-**Languages**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -22,8 +20,6 @@ A soon-to-graduate engineer in Data Science and Engineering. I like taking on pr
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
-**AI & ML**
-
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-4F46E5?style=flat-square&labelColor=1F2937)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-5B3FD9?style=flat-square&labelColor=1F2937)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Framework-6D28D9?style=flat-square&logo=pytorch&logoColor=white&labelColor=1F2937)
@@ -31,16 +27,12 @@ A soon-to-graduate engineer in Data Science and Engineering. I like taking on pr
 ![LLMs](https://img.shields.io/badge/LLMs-Generative%20AI-8B5CF6?style=flat-square&labelColor=1F2937)
 ![MCP](https://img.shields.io/badge/MCP-Agents-9D6BF7?style=flat-square&labelColor=1F2937)
 
-**Data**
-
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-**Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-1F2937?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=2496ED)
