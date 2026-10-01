@@ -28,20 +28,24 @@ A soon-to-graduate engineer in Data Science and Engineering. I like taking on pr
 ![MCP](https://img.shields.io/badge/MCP-Agents-9D6BF7?style=flat-square&labelColor=1F2937)
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-1F2937?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-1F2937?style=flat-square&logo=microsoftazure&logoColor=0078D4)
 ![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1F2937?style=flat-square&logo=kubernetes&logoColor=326CE5)
-![Terraform](https://img.shields.io/badge/Terraform-1F2937?style=flat-square&logo=terraform&logoColor=844FBA)
 ![PM Methodologies](https://img.shields.io/badge/PM%20Methodologies-1F2937?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTBCOTgxIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHJ4PSIyIi8%2BPHBhdGggZD0iTTggN3Y3TTEyIDd2NE0xNiA3djkiLz48L3N2Zz4K)
+
+## In Progress 🌱:
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-30363D?style=flat&logo=apachespark&logoColor=E25A1C)
+![Snowflake](https://img.shields.io/badge/Snowflake-30363D?style=flat&logo=snowflake&logoColor=29B5E8)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-30363D?style=flat&logo=apachekafka&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-30363D?style=flat&logo=microsoftazure&logoColor=0078D4)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-30363D?style=flat&logo=kubernetes&logoColor=326CE5)
+![Terraform](https://img.shields.io/badge/Terraform-30363D?style=flat&logo=terraform&logoColor=844FBA)
+
 ## Connect With me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:almendarez1002@gmail.com)
