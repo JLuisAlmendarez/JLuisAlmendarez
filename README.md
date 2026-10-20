@@ -28,9 +28,8 @@ A soon-to-graduate engineer in Data Science and Engineering interested in AI sys
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-5B3FD9?style=flat-square&labelColor=1F2937)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Framework-6D28D9?style=flat-square&logo=pytorch&logoColor=white&labelColor=1F2937)
 ![Optimization](https://img.shields.io/badge/Optimization-Mathematical%20Modeling-7C3AED?style=flat-square&labelColor=1F2937)
-![LLMs](https://img.shields.io/badge/LLMs-Generative%20AI-8B5CF6?style=flat-square&labelColor=1F2937)
-![MCP](https://img.shields.io/badge/MCP-Agents-9D6BF7?style=flat-square&labelColor=1F2937)
-![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![LLMs & MCP](https://img.shields.io/badge/LLMs%20%26%20MCP-Agents-8B5CF6?style=flat-square&labelColor=1F2937)
+![Claude API](https://img.shields.io/badge/Claude%20API-Generative%20AI-9D6BF7?style=flat-square&logo=anthropic&logoColor=white&labelColor=1F2937)
 
 ### Data
 
