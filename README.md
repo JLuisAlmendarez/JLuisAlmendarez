@@ -2,15 +2,16 @@
 
 A soon-to-graduate engineer in Data Science and Engineering. I like taking on projects that go beyond coursework. This portfolio is where I keep the projects that best show how I think and build.
 
-## Selected Projects 📌:
+## Selected Projects 📌
 
-[⚙️ Cloud ML Pipeline](https://github.com/JLuisAlmendarez/cloud-ml-pipeline) <br>
-[🏠 Urban Statistical Research](https://github.com/JLuisAlmendarez/urban-data-analysis-dhdu) <br>
-[🗳️ INE 2024 Presidential Debate](https://github.com/JLuisAlmendarez/signalab-ine-debate2024) <br>
-[🔷 Variational Auto-Encoder](https://github.com/JLuisAlmendarez/autoencoder) <br>
+[⚙️ Enterprise Data Automation](https://github.com/JLuisAlmendarez/enterprise-data-automation)  
+[☁️ Cloud ML Pipeline](https://github.com/JLuisAlmendarez/cloud-ml-pipeline)  
+[🏠 Urban Statistical Research](https://github.com/JLuisAlmendarez/urban-data-analysis-dhdu)  
+[🗳️ INE 2024 Presidential Debate](https://github.com/JLuisAlmendarez/signalab-ine-debate2024)  
+[🔷 Variational Auto-Encoder](https://github.com/JLuisAlmendarez/autoencoder)  
 [🌀 NS-GAN Surrogate Model](https://github.com/JLuisAlmendarez/GA-FNO-CFD)
 
-## Stack 💾:
+## Stack 💾
 
 **Languages**
 
@@ -43,9 +44,9 @@ A soon-to-graduate engineer in Data Science and Engineering. I like taking on pr
 
 ![AWS](https://img.shields.io/badge/AWS-1F2937?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=2496ED)
-![PM Methodologies](https://img.shields.io/badge/PM%20Methodologies-1F2937?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTBCOTgxIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHJ4PSIyIi8%2BPHBhdGggZD0iTTggN3Y3TTEyIDd2NE0xNiA3djkiLz48L3N2Zz4K)
+![PM Methodologies](https://img.shields.io/badge/PM%20Methodologies-1F2937?style=flat-square&labelColor=1F2937)
 
-## In Progress 🌱:
+## In Progress 🌱
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-30363D?style=flat&logo=apachespark&logoColor=E25A1C)
 ![Snowflake](https://img.shields.io/badge/Snowflake-30363D?style=flat&logo=snowflake&logoColor=29B5E8)
@@ -54,8 +55,8 @@ A soon-to-graduate engineer in Data Science and Engineering. I like taking on pr
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-30363D?style=flat&logo=kubernetes&logoColor=326CE5)
 ![Terraform](https://img.shields.io/badge/Terraform-30363D?style=flat&logo=terraform&logoColor=844FBA)
 
-## Connect With me:
+## Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:almendarez1002@gmail.com)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square\&logo=microsoft-outlook\&logoColor=white)](mailto:jose.almendarez@iteso.mx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jose-luis-almendarez/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:almendarez1002@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:jose.almendarez@iteso.mx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-almendarez/)
