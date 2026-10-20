@@ -9,7 +9,6 @@ A soon-to-graduate engineer in Data Science and Engineering. I like taking on pr
 [🏠 Urban Statistical Research](https://github.com/JLuisAlmendarez/urban-data-analysis-dhdu)  
 [🗳️ INE 2024 Presidential Debate](https://github.com/JLuisAlmendarez/signalab-ine-debate2024)  
 [🔷 Variational Auto-Encoder](https://github.com/JLuisAlmendarez/autoencoder)  
-[🌀 NS-GAN Surrogate Model](https://github.com/JLuisAlmendarez/GA-FNO-CFD)
 
 ## Stack 💾
 
