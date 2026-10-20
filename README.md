@@ -1,6 +1,6 @@
 # Hello, I'm José Luis 👋
 
-A soon-to-graduate engineer in Data Science and Engineering. I like taking on projects that go beyond coursework. This portfolio is where I keep the projects that best show how I think and build.
+A soon-to-graduate engineer in Data Science and Engineering interested in AI systems, data platforms, and enterprise automation. This portfolio showcases projects spanning machine learning, cloud infrastructure, and production-oriented data workflows.
 
 ## Selected Projects 📌
 
@@ -8,11 +8,11 @@ A soon-to-graduate engineer in Data Science and Engineering. I like taking on pr
 [☁️ Cloud ML Pipeline](https://github.com/JLuisAlmendarez/cloud-ml-pipeline)  
 [🏠 Urban Statistical Research](https://github.com/JLuisAlmendarez/urban-data-analysis-dhdu)  
 [🗳️ INE 2024 Presidential Debate](https://github.com/JLuisAlmendarez/signalab-ine-debate2024)  
-[🔷 Variational Auto-Encoder](https://github.com/JLuisAlmendarez/autoencoder)  
+[🔷 Variational Auto-Encoder](https://github.com/JLuisAlmendarez/autoencoder)
 
 ## Stack 💾
 
-**Languages**
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -22,7 +22,7 @@ A soon-to-graduate engineer in Data Science and Engineering. I like taking on pr
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
-**AI & ML**
+### AI & ML
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-4F46E5?style=flat-square&labelColor=1F2937)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-5B3FD9?style=flat-square&labelColor=1F2937)
@@ -30,29 +30,40 @@ A soon-to-graduate engineer in Data Science and Engineering. I like taking on pr
 ![Optimization](https://img.shields.io/badge/Optimization-Mathematical%20Modeling-7C3AED?style=flat-square&labelColor=1F2937)
 ![LLMs](https://img.shields.io/badge/LLMs-Generative%20AI-8B5CF6?style=flat-square&labelColor=1F2937)
 ![MCP](https://img.shields.io/badge/MCP-Agents-9D6BF7?style=flat-square&labelColor=1F2937)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-**Data**
+### Data
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Cloud & DevOps**
+### Analytics & Automation
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-1F2937?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=2496ED)
-![PM Methodologies](https://img.shields.io/badge/PM%20Methodologies-1F2937?style=flat-square&labelColor=1F2937)
+![PM Methodologies](https://img.shields.io/badge/PM%20Methodologies-1F2937?style=flat-square)
 
 ## In Progress 🌱
 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-30363D?style=flat&logo=apachespark&logoColor=E25A1C)
-![Snowflake](https://img.shields.io/badge/Snowflake-30363D?style=flat&logo=snowflake&logoColor=29B5E8)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-30363D?style=flat&logo=apachekafka&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-30363D?style=flat&logo=microsoftazure&logoColor=0078D4)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-30363D?style=flat&logo=kubernetes&logoColor=326CE5)
-![Terraform](https://img.shields.io/badge/Terraform-30363D?style=flat&logo=terraform&logoColor=844FBA)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-30363D?style=flat-square&logo=apachespark&logoColor=E25A1C)
+![Snowflake](https://img.shields.io/badge/Snowflake-30363D?style=flat-square&logo=snowflake&logoColor=29B5E8)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-30363D?style=flat-square&logo=apachekafka&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-30363D?style=flat-square&logo=microsoftazure&logoColor=0078D4)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-30363D?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Terraform](https://img.shields.io/badge/Terraform-30363D?style=flat-square&logo=terraform&logoColor=844FBA)
 
 ## Connect With Me
 
