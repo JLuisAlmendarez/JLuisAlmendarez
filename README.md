@@ -71,6 +71,13 @@ A soon-to-graduate engineer in Data Science and Engineering interested in AI sys
 ![Prometheus](https://img.shields.io/badge/Prometheus-30363D?style=flat-square&logo=prometheus&logoColor=E6522C)
 ![Grafana](https://img.shields.io/badge/Grafana-30363D?style=flat-square&logo=grafana&logoColor=F46800)
 ![LangChain](https://img.shields.io/badge/LangChain-30363D?style=flat-square&logo=langchain&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-30363D?style=flat-square&logo=langfuse&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-30363D?style=flat-square&logo=argo&logoColor=EF7B4D)
+![Loki](https://img.shields.io/badge/Loki-30363D?style=flat-square&logo=grafana&logoColor=F46800)
+![Tempo](https://img.shields.io/badge/Tempo-30363D?style=flat-square&logo=grafana&logoColor=F46800)
+![Trivy](https://img.shields.io/badge/Trivy-30363D?style=flat-square&logo=aqua&logoColor=1904DA)
+![Great Expectations](https://img.shields.io/badge/Great%20Expectations-30363D?style=flat-square&logo=greatexpectations&logoColor=F6A31B)
+![pytest](https://img.shields.io/badge/pytest-30363D?style=flat-square&logo=pytest&logoColor=0A9EDC)
 
 ## Connect With Me
 
