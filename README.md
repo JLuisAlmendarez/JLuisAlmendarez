@@ -23,7 +23,7 @@ A soon-to-graduate engineer in Data Science and Engineering interested in AI sys
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
 ### AI & ML
-
+<!-- Mejorar esta seccion mostrando conocimientos y tecnologias mas especificas-->
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Unsupervised%20%26%20Supervised-4F46E5?style=flat-square&labelColor=1F2937)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-5B3FD9?style=flat-square&labelColor=1F2937)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Framework-6D28D9?style=flat-square&logo=pytorch&logoColor=white&labelColor=1F2937)
