@@ -53,7 +53,7 @@ A soon-to-graduate engineer in Data Science and Engineering interested in AI sys
 ![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=2496ED)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-30363D?style=flat-square)
 ![PM Methodologies](https://img.shields.io/badge/PM%20Methodologies-1F2937?style=flat-square)
-
+<!--
 ## In Progress 🌱
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-30363D?style=flat-square&logo=apachespark&logoColor=E25A1C)
 ![Databricks](https://img.shields.io/badge/Databricks-30363D?style=flat-square&logo=databricks&logoColor=FF3621)
@@ -78,7 +78,7 @@ A soon-to-graduate engineer in Data Science and Engineering interested in AI sys
 ![Trivy](https://img.shields.io/badge/Trivy-30363D?style=flat-square&logo=aqua&logoColor=1904DA)
 ![Great Expectations](https://img.shields.io/badge/Great%20Expectations-30363D?style=flat-square&logo=greatexpectations&logoColor=F6A31B)
 ![pytest](https://img.shields.io/badge/pytest-30363D?style=flat-square&logo=pytest&logoColor=0A9EDC)
-
+-->
 ## Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:almendarez1002@gmail.com)
