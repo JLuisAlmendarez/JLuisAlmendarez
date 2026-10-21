@@ -53,13 +53,13 @@ A soon-to-graduate engineer in Data Science and Engineering interested in AI sys
 ![PM Methodologies](https://img.shields.io/badge/PM%20Methodologies-1F2937?style=flat-square)
 
 ## In Progress 🌱
-
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-30363D?style=flat-square&logo=apachespark&logoColor=E25A1C)
 ![Snowflake](https://img.shields.io/badge/Snowflake-30363D?style=flat-square&logo=snowflake&logoColor=29B5E8)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-30363D?style=flat-square&logo=apachekafka&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-30363D?style=flat-square&logo=microsoftazure&logoColor=0078D4)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-30363D?style=flat-square&logo=kubernetes&logoColor=326CE5)
 ![Terraform](https://img.shields.io/badge/Terraform-30363D?style=flat-square&logo=terraform&logoColor=844FBA)
+![Databricks](https://img.shields.io/badge/Databricks-30363D?style=flat-square&logo=databricks&logoColor=FF3621)
 
 ## Connect With Me
 
