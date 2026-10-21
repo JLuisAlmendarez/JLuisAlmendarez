@@ -54,15 +54,18 @@ A soon-to-graduate engineer in Data Science and Engineering interested in AI sys
 ![PM Methodologies](https://img.shields.io/badge/PM%20Methodologies-1F2937?style=flat-square)
 
 ## In Progress 🌱
-
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-30363D?style=flat-square&logo=apachespark&logoColor=E25A1C)
+![Databricks](https://img.shields.io/badge/Databricks-30363D?style=flat-square&logo=databricks&logoColor=FF3621)
 ![Snowflake](https://img.shields.io/badge/Snowflake-30363D?style=flat-square&logo=snowflake&logoColor=29B5E8)
+![dbt](https://img.shields.io/badge/dbt-30363D?style=flat-square&logo=dbt&logoColor=FF694B)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-30363D?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-30363D?style=flat-square&logo=apacheairflow&logoColor=017CEE)
 ![Azure](https://img.shields.io/badge/Azure-30363D?style=flat-square&logo=microsoftazure&logoColor=0078D4)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-30363D?style=flat-square&logo=githubactions&logoColor=2088FF)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-30363D?style=flat-square&logo=kubernetes&logoColor=326CE5)
 ![Terraform](https://img.shields.io/badge/Terraform-30363D?style=flat-square&logo=terraform&logoColor=844FBA)
-![Databricks](https://img.shields.io/badge/Databricks-30363D?style=flat-square&logo=databricks&logoColor=FF3621)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-30363D?style=flat-square&logo=githubactions&logoColor=2088FF)
+![DVC](https://img.shields.io/badge/DVC-30363D?style=flat-square&logo=dvc&logoColor=13ADC7)
+![Evidently](https://img.shields.io/badge/Evidently-30363D?style=flat-square)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-30363D?style=flat-square&logo=opentelemetry&logoColor=F5A800)
 ![Prometheus](https://img.shields.io/badge/Prometheus-30363D?style=flat-square&logo=prometheus&logoColor=E6522C)
 ![Grafana](https://img.shields.io/badge/Grafana-30363D?style=flat-square&logo=grafana&logoColor=F46800)
