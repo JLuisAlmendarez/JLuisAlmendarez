@@ -31,6 +31,10 @@ A soon-to-graduate engineer in Data Science and Engineering interested in AI sys
 ![Mathematical Modeling](https://img.shields.io/badge/Mathematical%20Modeling-7C3AED?style=flat-square&labelColor=1F2937) 
 ![LLMs%20%26%20MCP](https://img.shields.io/badge/LLMs%20%26%20MCP-8B5CF6?style=flat-square&labelColor=1F2937)
 
+### AI & ML
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4F46E5?style=flat-square&labelColor=1F2937) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-5B3FD9?style=flat-square&labelColor=1F2937) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Mathematical Modeling](https://img.shields.io/badge/Mathematical%20Modeling-7C3AED?style=flat-square&labelColor=1F2937) ![LLMs%20%26%20MCP](https://img.shields.io/badge/LLMs%20%26%20MCP-8B5CF6?style=flat-square&labelColor=1F2937)
+
 ### Data
 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
