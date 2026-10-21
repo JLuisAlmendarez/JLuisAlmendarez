@@ -51,8 +51,8 @@ A soon-to-graduate engineer in Data Science and Engineering interested in AI sys
 
 ![AWS](https://img.shields.io/badge/AWS-1F2937?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=2496ED)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FastAPI%20%7C%20Node.js%20%7C%20n8n-30363D?style=flat-square&labelColor=1F2937)!
-[PM Methodologies](https://img.shields.io/badge/PM%20Methodologies-1F2937?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-30363D?style=flat-square)
+![PM Methodologies](https://img.shields.io/badge/PM%20Methodologies-1F2937?style=flat-square)
 
 ## In Progress 🌱
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-30363D?style=flat-square&logo=apachespark&logoColor=E25A1C)
