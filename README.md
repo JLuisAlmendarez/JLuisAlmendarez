@@ -42,6 +42,7 @@ Data Science and Engineering professional focused on machine learning, data engi
 ![BentoML](https://img.shields.io/badge/BentoML-8952C7?style=flat-square&logo=bentoml&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-8952C7?style=flat-square&logo=vllm&logoColor=white)
 ![Evidently](https://img.shields.io/badge/Evidently-8952C7?style=flat-square)
+![DeepEval](https://img.shields.io/badge/DeepEval-8952C7?style=flat-square)
 ![Langfuse](https://img.shields.io/badge/Langfuse-8952C7?style=flat-square&logo=langfuse&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-8952C7?style=flat-square&logo=weightsandbiases&logoColor=white)
 
