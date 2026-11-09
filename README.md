@@ -20,7 +20,6 @@ Data Science and Engineering professional focused on machine learning, data engi
 ![SQL](https://img.shields.io/badge/SQL-28669C?style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-28669C?style=flat-square&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-28669C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-28669C?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-28669C?style=flat-square&logo=html5&logoColor=white)
 
 ### AI & Machine Learning
@@ -109,8 +108,14 @@ Data Science and Engineering professional focused on machine learning, data engi
 
 <!--
 SAP/4HANA
+![C++](https://img.shields.io/badge/C%2B%2B-28669C?style=flat-square&logo=cplusplus&logoColor=white)
 SCALA
+PERL
+Go
+Kotlin
 CASSAMDRA
 APACHE ICEBERG
 GCP
+Rust
+Typescript
 -->
