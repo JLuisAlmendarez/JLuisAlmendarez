@@ -99,7 +99,10 @@ Data Science and Engineering professional focused on machine learning, data engi
 ![n8n](https://img.shields.io/badge/n8n-A65E2E?style=flat-square&logo=n8n&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-A65E2E?style=flat-square&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-A65E2E?style=flat-square&logo=microsoftexcel&logoColor=white)
-
+<!--
+SAP/4HANA
+(Add: Dax & M-code, Learn: VBA) 
+-->
 ## Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:almendarez1002@gmail.com)
