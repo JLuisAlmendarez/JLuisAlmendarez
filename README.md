@@ -118,4 +118,6 @@ APACHE ICEBERG
 GCP
 Rust
 Typescript
+R
+Julia
 -->
