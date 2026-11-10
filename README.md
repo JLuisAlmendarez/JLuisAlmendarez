@@ -31,38 +31,17 @@ Data Science and Engineering professional focused on machine learning, data engi
 ![NumPy](https://img.shields.io/badge/NumPy-8952C7?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-8952C7?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-8952C7?style=flat-square&logo=optuna&logoColor=white)
-![Ray](https://img.shields.io/badge/Ray-8952C7?style=flat-square&logo=ray&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-8952C7?style=flat-square&logo=huggingface&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude%20API-8952C7?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-8952C7?style=flat-square&logo=langchain&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-8952C7?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-8952C7?style=flat-square&logo=pinecone&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-8952C7?style=flat-square&logo=onnx&logoColor=white)
-![BentoML](https://img.shields.io/badge/BentoML-8952C7?style=flat-square&logo=bentoml&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-8952C7?style=flat-square&logo=vllm&logoColor=white)
-![Evidently](https://img.shields.io/badge/Evidently-8952C7?style=flat-square)
-![DeepEval](https://img.shields.io/badge/DeepEval-8952C7?style=flat-square)
-![Langfuse](https://img.shields.io/badge/Langfuse-8952C7?style=flat-square&logo=langfuse&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-8952C7?style=flat-square&logo=weightsandbiases&logoColor=white)
 
 ### Data Engineering & Platforms
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-F0B429?style=flat-square&logo=microsoftsqlserver&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F0B429?style=flat-square&logo=postgresql&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-F0B429?style=flat-square&logo=mongodb&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-F0B429?style=flat-square&logo=redis&logoColor=black)
 ![Neo4j](https://img.shields.io/badge/Neo4j-F0B429?style=flat-square&logo=neo4j&logoColor=black)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-F0B429?style=flat-square&logo=microsoft&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-F0B429?style=flat-square&logo=databricks&logoColor=black)
-![Snowflake](https://img.shields.io/badge/Snowflake-F0B429?style=flat-square&logo=snowflake&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-F0B429?style=flat-square&logo=apachespark&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-F0B429?style=flat-square&logo=apachekafka&logoColor=black)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-F0B429?style=flat-square&logo=apacheairflow&logoColor=black)
 ![Prefect](https://img.shields.io/badge/Prefect-F0B429?style=flat-square&logo=prefect&logoColor=black)
-![dbt](https://img.shields.io/badge/dbt-F0B429?style=flat-square&logo=dbt&logoColor=black)
 ![MLflow](https://img.shields.io/badge/MLflow-F0B429?style=flat-square&logo=mlflow&logoColor=black)
-![Great Expectations](https://img.shields.io/badge/Great%20Expectations-F0B429?style=flat-square&logo=greatexpectations&logoColor=black)
-![DVC](https://img.shields.io/badge/DVC-F0B429?style=flat-square&logo=dvc&logoColor=black)
 ![Pandas & Polars](https://img.shields.io/badge/Pandas%20%26%20Polars-F0B429?style=flat-square&logo=pandas&logoColor=black)
 
 ### Cloud & DevOps
@@ -71,18 +50,7 @@ Data Science and Engineering professional focused on machine learning, data engi
 ![Azure](https://img.shields.io/badge/Azure-246B48?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-246B48?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-246B48?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-246B48?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-246B48?style=flat-square&logo=helm&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-246B48?style=flat-square&logo=githubactions&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-246B48?style=flat-square&logo=argo&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-246B48?style=flat-square&logo=opentelemetry&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-246B48?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-246B48?style=flat-square&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-246B48?style=flat-square)
-![Tempo](https://img.shields.io/badge/Tempo-246B48?style=flat-square)
-![Nginx](https://img.shields.io/badge/Nginx-246B48?style=flat-square&logo=nginx&logoColor=white)
-![Vault](https://img.shields.io/badge/Vault-246B48?style=flat-square&logo=vault&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-246B48?style=flat-square&logo=aqua&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-246B48?style=flat-square&logo=linux&logoColor=white)
 
 ### Software & Automation
@@ -90,8 +58,6 @@ Data Science and Engineering professional focused on machine learning, data engi
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-A65E2E?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-A65E2E?style=flat-square&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-A65E2E?style=flat-square&logo=pydantic&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-A65E2E?style=flat-square&logo=pytest&logoColor=white)
-![Ruff](https://img.shields.io/badge/Ruff-A65E2E?style=flat-square&logo=ruff&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-A65E2E?style=flat-square&logo=jupyter&logoColor=white)
 ![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-A65E2E?style=flat-square&logo=github&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-A65E2E?style=flat-square&logo=powerautomate&logoColor=white)
@@ -123,4 +89,47 @@ Rust
 Typescript
 R
 Julia
+
+
+AI
+![LangChain](https://img.shields.io/badge/LangChain-8952C7?style=flat-square&logo=langchain&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-8952C7?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-8952C7?style=flat-square&logo=pinecone&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-8952C7?style=flat-square&logo=onnx&logoColor=white)
+![BentoML](https://img.shields.io/badge/BentoML-8952C7?style=flat-square&logo=bentoml&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-8952C7?style=flat-square&logo=vllm&logoColor=white)
+![Evidently](https://img.shields.io/badge/Evidently-8952C7?style=flat-square)
+![DeepEval](https://img.shields.io/badge/DeepEval-8952C7?style=flat-square)
+![Langfuse](https://img.shields.io/badge/Langfuse-8952C7?style=flat-square&logo=langfuse&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-8952C7?style=flat-square&logo=weightsandbiases&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray-8952C7?style=flat-square&logo=ray&logoColor=white)
+
+Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F0B429?style=flat-square&logo=postgresql&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-F0B429?style=flat-square&logo=redis&logoColor=black)
+![Great Expectations](https://img.shields.io/badge/Great%20Expectations-F0B429?style=flat-square&logo=greatexpectations&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-F0B429?style=flat-square&logo=databricks&logoColor=black)
+![Snowflake](https://img.shields.io/badge/Snowflake-F0B429?style=flat-square&logo=snowflake&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-F0B429?style=flat-square&logo=apachespark&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-F0B429?style=flat-square&logo=apachekafka&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-F0B429?style=flat-square&logo=apacheairflow&logoColor=black)
+![dbt](https://img.shields.io/badge/dbt-F0B429?style=flat-square&logo=dbt&logoColor=black)
+![DVC](https://img.shields.io/badge/DVC-F0B429?style=flat-square&logo=dvc&logoColor=black)
+
+Cloud
+![Argo CD](https://img.shields.io/badge/Argo%20CD-246B48?style=flat-square&logo=argo&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-246B48?style=flat-square&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-246B48?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-246B48?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-246B48?style=flat-square)
+![Tempo](https://img.shields.io/badge/Tempo-246B48?style=flat-square)
+![Nginx](https://img.shields.io/badge/Nginx-246B48?style=flat-square&logo=nginx&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-246B48?style=flat-square&logo=vault&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-246B48?style=flat-square&logo=aqua&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-246B48?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-246B48?style=flat-square&logo=helm&logoColor=white)
+
+Software
+![pytest](https://img.shields.io/badge/pytest-A65E2E?style=flat-square&logo=pytest&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-A65E2E?style=flat-square&logo=ruff&logoColor=white)
 -->
