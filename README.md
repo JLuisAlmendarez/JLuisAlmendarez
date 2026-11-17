@@ -8,7 +8,6 @@ Data Science and Engineering professional focused on machine learning, data engi
 [☁️ Cloud ML Pipeline](https://github.com/JLuisAlmendarez/cloud-ml-pipeline)  
 [🏠 Urban Statistical Research](https://github.com/JLuisAlmendarez/urban-data-analysis-dhdu)  
 [🗳️ INE 2024 Presidential Debate](https://github.com/JLuisAlmendarez/signalab-ine-debate2024)  
-[🔷 Variational Auto-Encoder](https://github.com/JLuisAlmendarez/autoencoder)
 
 ## Stack 💾
 
