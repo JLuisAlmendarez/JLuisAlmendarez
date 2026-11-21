@@ -92,12 +92,15 @@ Data Science and Engineering professional focused on machine learning, data engi
 ![Jupyter](https://img.shields.io/badge/Jupyter-A65E2E?style=flat-square&logo=jupyter&logoColor=white)
 ![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-A65E2E?style=flat-square&logo=github&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-A65E2E?style=flat-square&logo=n8n&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-A65E2E?style=flat-square&logo=powerautomate&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power%20Apps-A65E2E?style=flat-square&logo=powerapps&logoColor=white)
-![Power BI (DAX, M-code)](https://img.shields.io/badge/Power%20BI%20(DAX%2C%20M--code)-A65E2E?style=flat-square&logo=powerbi&logoColor=white)
-![Excel (VBA)](https://img.shields.io/badge/Excel%20(VBA)-A65E2E?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+### Business Applications & Automation
+
 ![SAP S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-A65E2E?style=flat-square&logo=sap&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-A65E2E?style=flat-square&logo=odoo&logoColor=white)
+![Power BI (DAX, M-code)](https://img.shields.io/badge/Power%20BI%20(DAX%2C%20M--code)-A65E2E?style=flat-square&logo=powerbi&logoColor=white)
+![Excel (VBA, Pivot Tables)](https://img.shields.io/badge/Excel%20(VBA%2C%20Pivot%20Tables)-A65E2E?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-A65E2E?style=flat-square&logo=powerautomate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-A65E2E?style=flat-square&logo=powerapps&logoColor=white)
 
 ## Contact
 
