@@ -36,10 +36,10 @@ Data Science and Engineering professional focused on machine learning, data engi
 ![Mathematical Modeling (Regression & Optimization)](https://img.shields.io/badge/Mathematical%20Modeling%20(Regression%20%26%20Optimization)-8952C7?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-8952C7?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn + XGBoost](https://img.shields.io/badge/Scikit--learn%20%2B%20XGBoost-8952C7?style=flat-square&logo=scikitlearn&logoColor=white)
-![Evidently](https://img.shields.io/badge/Evidently-8952C7?style=flat-square)
-![MLflow](https://img.shields.io/badge/MLflow-F0B429?style=flat-square&logo=mlflow&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-8952C7?style=flat-square&logo=mlflow&logoColor=black)
 ![Optuna](https://img.shields.io/badge/Optuna-8952C7?style=flat-square&logo=optuna&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-8952C7?style=flat-square&logo=onnx&logoColor=white)
+![Evidently](https://img.shields.io/badge/Evidently-8952C7?style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-8952C7?style=flat-square&logo=huggingface&logoColor=white)
 ![Claude & Gemini API](https://img.shields.io/badge/Claude%20%26%20Gemini%20API-8952C7?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-8952C7?style=flat-square&logo=langchain&logoColor=white)
@@ -61,12 +61,11 @@ Data Science and Engineering professional focused on machine learning, data engi
 ![Prefect](https://img.shields.io/badge/Prefect-F0B429?style=flat-square&logo=prefect&logoColor=black)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-F0B429?style=flat-square&logo=apachekafka&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-F0B429?style=flat-square&logo=apachespark&logoColor=black)
+![Pandas & Polars](https://img.shields.io/badge/Pandas%20%26%20Polars-F0B429?style=flat-square&logo=pandas&logoColor=black)
 ![dbt](https://img.shields.io/badge/dbt-F0B429?style=flat-square&logo=dbt&logoColor=black)
+![Great Expectations](https://img.shields.io/badge/Great%20Expectations-F0B429?style=flat-square&logo=greatexpectations&logoColor=black)
 ![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-F0B429?style=flat-square&logo=apacheiceberg&logoColor=black)
 ![DVC](https://img.shields.io/badge/DVC-F0B429?style=flat-square&logo=dvc&logoColor=black)
-
-![Pandas & Polars](https://img.shields.io/badge/Pandas%20%26%20Polars-F0B429?style=flat-square&logo=pandas&logoColor=black)
-![Great Expectations](https://img.shields.io/badge/Great%20Expectations-F0B429?style=flat-square&logo=greatexpectations&logoColor=black)
 
 ### Cloud & DevOps
 
