@@ -95,7 +95,7 @@ Data Science and Engineering professional focused on machine learning, data engi
 
 ### Business Applications & Automation
 
-![SAP S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-858585?style=flat-square&logo=sap&logoColor=black)
+![SAP S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-858585?style=flat-square&logo=sap&logoColor=black&labelColor=858585)
 ![Odoo](https://img.shields.io/badge/Odoo-858585?style=flat-square&logo=odoo&logoColor=black)
 ![Power BI (DAX, M-code)](https://img.shields.io/badge/Power%20BI%20(DAX%2C%20M--code)-858585?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel (VBA, Pivot Tables)](https://img.shields.io/badge/Excel%20(VBA%2C%20Pivot%20Tables)-858585?style=flat-square&logo=microsoftexcel&logoColor=black)
