@@ -35,23 +35,21 @@ Data Science and Engineering professional focused on machine learning, data engi
 ![Deep Learning (Neural Network Architectures)](https://img.shields.io/badge/Deep%20Learning%20(Neural%20Network%20Architectures)-8952C7?style=flat-square)
 ![Mathematical Modeling (Regression & Optimization)](https://img.shields.io/badge/Mathematical%20Modeling%20(Regression%20%26%20Optimization)-8952C7?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-8952C7?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-8952C7?style=flat-square&logo=numpy&logoColor=white)
-![Evidently](https://img.shields.io/badge/Evidently-8952C7?style=flat-square)
 ![Scikit-learn + XGBoost](https://img.shields.io/badge/Scikit--learn%20%2B%20XGBoost-8952C7?style=flat-square&logo=scikitlearn&logoColor=white)
+![Evidently](https://img.shields.io/badge/Evidently-8952C7?style=flat-square)
 ![MLflow](https://img.shields.io/badge/MLflow-F0B429?style=flat-square&logo=mlflow&logoColor=black)
 ![Optuna](https://img.shields.io/badge/Optuna-8952C7?style=flat-square&logo=optuna&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-8952C7?style=flat-square&logo=onnx&logoColor=white)
-![Ray](https://img.shields.io/badge/Ray-8952C7?style=flat-square&logo=ray&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-8952C7?style=flat-square&logo=huggingface&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-8952C7?style=flat-square&logo=vllm&logoColor=white)
 ![Claude & Gemini API](https://img.shields.io/badge/Claude%20%26%20Gemini%20API-8952C7?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-8952C7?style=flat-square&logo=langchain&logoColor=white)
 ![DeepEval](https://img.shields.io/badge/DeepEval-8952C7?style=flat-square)
+![Ray](https://img.shields.io/badge/Ray-8952C7?style=flat-square&logo=ray&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-8952C7?style=flat-square&logo=vllm&logoColor=white)
 ![Langfuse](https://img.shields.io/badge/Langfuse-8952C7?style=flat-square&logo=langfuse&logoColor=white)
 
 ### Data Engineering & Platforms
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-F0B429?style=flat-square&logo=microsoftsqlserver&logoColor=black)
 ![PostgreSQL + pgvector](https://img.shields.io/badge/PostgreSQL%20%2B%20pgvector-F0B429?style=flat-square&logo=postgresql&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-F0B429?style=flat-square&logo=mongodb&logoColor=black)
 ![Neo4j](https://img.shields.io/badge/Neo4j-F0B429?style=flat-square&logo=neo4j&logoColor=black)
@@ -64,11 +62,11 @@ Data Science and Engineering professional focused on machine learning, data engi
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-F0B429?style=flat-square&logo=apachekafka&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-F0B429?style=flat-square&logo=apachespark&logoColor=black)
 ![dbt](https://img.shields.io/badge/dbt-F0B429?style=flat-square&logo=dbt&logoColor=black)
-![Apache Parquet](https://img.shields.io/badge/Apache%20Parquet-F0B429?style=flat-square&logo=apacheparquet&logoColor=black)
 ![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-F0B429?style=flat-square&logo=apacheiceberg&logoColor=black)
-![Great Expectations](https://img.shields.io/badge/Great%20Expectations-F0B429?style=flat-square&logo=greatexpectations&logoColor=black)
 ![DVC](https://img.shields.io/badge/DVC-F0B429?style=flat-square&logo=dvc&logoColor=black)
+
 ![Pandas & Polars](https://img.shields.io/badge/Pandas%20%26%20Polars-F0B429?style=flat-square&logo=pandas&logoColor=black)
+![Great Expectations](https://img.shields.io/badge/Great%20Expectations-F0B429?style=flat-square&logo=greatexpectations&logoColor=black)
 
 ### Cloud & DevOps
 
@@ -84,7 +82,7 @@ Data Science and Engineering professional focused on machine learning, data engi
 ![Nginx](https://img.shields.io/badge/Nginx-246B48?style=flat-square&logo=nginx&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-246B48?style=flat-square&logo=aqua&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-246B48?style=flat-square&logo=argo&logoColor=white)
-![Observability](https://img.shields.io/badge/Observability-246B48?style=flat-square&logo=grafana&logoColor=white)
+![Observability (OpenTelemetry, Loki, Tempo, Prometheus & Grafana)](https://img.shields.io/badge/Observability%20(OpenTelemetry%2C%20Loki%2C%20Tempo%2C%20Prometheus%20%26%20Grafana)-246B48?style=flat-square&logo=grafana&logoColor=white)
 
 ### Software & Automation
 
