@@ -16,18 +16,9 @@ Data Science and Engineering professional focused on machine learning, data engi
 ![Python](https://img.shields.io/badge/Python-28669C?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-28669C?style=flat-square)
 ![R](https://img.shields.io/badge/R-28669C?style=flat-square&logo=r&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-28669C?style=flat-square&logo=julia&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-28669C?style=flat-square&logo=openjdk&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-28669C?style=flat-square&logo=scala&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-28669C?style=flat-square&logo=kotlin&logoColor=white)
 ![C / C++](https://img.shields.io/badge/C%20%2F%20C%2B%2B-28669C?style=flat-square&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-28669C?style=flat-square&logo=rust&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-28669C?style=flat-square&logo=perl&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-28669C?style=flat-square&logo=dotnet&logoColor=white)
-![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-28669C?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript / TypeScript](https://img.shields.io/badge/JavaScript%20%2F%20TypeScript-28669C?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-28669C?style=flat-square&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-28669C?style=flat-square&logo=gnubash&logoColor=white)
 
 ### AI & Machine Learning
 
@@ -42,11 +33,6 @@ Data Science and Engineering professional focused on machine learning, data engi
 ![Evidently](https://img.shields.io/badge/Evidently-8952C7?style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-8952C7?style=flat-square&logo=huggingface&logoColor=white)
 ![Claude & Gemini API](https://img.shields.io/badge/Claude%20%26%20Gemini%20API-8952C7?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-8952C7?style=flat-square&logo=langchain&logoColor=white)
-![DeepEval](https://img.shields.io/badge/DeepEval-8952C7?style=flat-square)
-![Ray](https://img.shields.io/badge/Ray-8952C7?style=flat-square&logo=ray&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-8952C7?style=flat-square&logo=vllm&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-8952C7?style=flat-square&logo=langfuse&logoColor=white)
 
 ### Data Engineering & Platforms
 
@@ -72,18 +58,14 @@ Data Science and Engineering professional focused on machine learning, data engi
 ![AWS](https://img.shields.io/badge/AWS-246B48?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-246B48?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-246B48?style=flat-square)
-![Terraform](https://img.shields.io/badge/Terraform-246B48?style=flat-square&logo=terraform&logoColor=white)
-![Vault](https://img.shields.io/badge/Vault-246B48?style=flat-square&logo=vault&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-246B48?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-246B48?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-246B48?style=flat-square&logo=helm&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-246B48?style=flat-square&logo=argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-246B48?style=flat-square&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-246B48?style=flat-square&logo=nginx&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-246B48?style=flat-square&logo=aqua&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-246B48?style=flat-square&logo=opentelemetry&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-246B48?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana Stack (Loki, Tempo)](https://img.shields.io/badge/Grafana%20Stack%20(Loki%2C%20Tempo)-246B48?style=flat-square&logo=grafana&logoColor=white)
+![Linux & Bash](https://img.shields.io/badge/Linux%20%26%20Bash-246B48?style=flat-square&logo=linux&logoColor=white)
 
 ### Software & Automation
 
@@ -94,11 +76,10 @@ Data Science and Engineering professional focused on machine learning, data engi
 ![Jupyter](https://img.shields.io/badge/Jupyter-A65E2E?style=flat-square&logo=jupyter&logoColor=white)
 ![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-A65E2E?style=flat-square&logo=github&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-A65E2E?style=flat-square&logo=n8n&logoColor=white)
+![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-A65E2E?style=flat-square&logo=html5&logoColor=white)
 
 ### Business Applications & Automation
 
-![SAP S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-858585?style=flat-square&logo=sap&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-858585?style=flat-square&logo=odoo&logoColor=white)
 ![Power BI (DAX, M-code)](https://img.shields.io/badge/Power%20BI%20(DAX%2C%20M--code)-858585?style=flat-square&logo=powerbi&logoColor=white)
 ![Excel (VBA, Pivot Tables)](https://img.shields.io/badge/Excel%20(VBA%2C%20Pivot%20Tables)-858585?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-858585?style=flat-square&logo=powerautomate&logoColor=white)
@@ -109,3 +90,35 @@ Data Science and Engineering professional focused on machine learning, data engi
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:almendarez1002@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:jose.almendarez@iteso.mx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-almendarez/)
+
+<!--
+![Rust](https://img.shields.io/badge/Rust-28669C?style=flat-square&logo=rust&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-28669C?style=flat-square&logo=julia&logoColor=white)
+![Go](https://img.shields.io/badge/Go-28669C?style=flat-square&logo=go&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-28669C?style=flat-square&logo=scala&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-28669C?style=flat-square&logo=kotlin&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-28669C?style=flat-square&logo=perl&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-28669C?style=flat-square&logo=dotnet&logoColor=white)
+
+![LangChain](https://img.shields.io/badge/LangChain-8952C7?style=flat-square&logo=langchain&logoColor=white)
+![DeepEval](https://img.shields.io/badge/DeepEval-8952C7?style=flat-square)
+![Ray](https://img.shields.io/badge/Ray-8952C7?style=flat-square&logo=ray&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-8952C7?style=flat-square&logo=vllm&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-8952C7?style=flat-square&logo=langfuse&logoColor=white)
+
+![OpenTofu / Terraform](https://img.shields.io/badge/OpenTofu%20%2F%20Terraform-246B48?style=flat-square&logo=opentofu&logoColor=white)
+![OpenBao / Vault](https://img.shields.io/badge/OpenBao%20%2F%20Vault-246B48?style=flat-square&logo=openbao&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-246B48?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-246B48?style=flat-square&logo=helm&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-246B48?style=flat-square&logo=argo&logoColor=white)
+
+
+
+![SAP S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-858585?style=flat-square&logo=sap&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-858585?style=flat-square&logo=odoo&logoColor=white)
+
+
+
+
+
+-->
