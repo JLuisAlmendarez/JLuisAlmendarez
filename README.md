@@ -77,10 +77,10 @@ Data Science and Engineering professional focused on machine learning, data engi
 ![Docker](https://img.shields.io/badge/Docker-246B48?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-246B48?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-246B48?style=flat-square&logo=helm&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-246B48?style=flat-square&logo=argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-246B48?style=flat-square&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-246B48?style=flat-square&logo=nginx&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-246B48?style=flat-square&logo=aqua&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-246B48?style=flat-square&logo=argo&logoColor=white)
 ![Observability (OpenTelemetry, Loki, Tempo, Prometheus & Grafana)](https://img.shields.io/badge/Observability%20(OpenTelemetry%2C%20Loki%2C%20Tempo%2C%20Prometheus%20%26%20Grafana)-246B48?style=flat-square)
 
 ### Software & Automation
