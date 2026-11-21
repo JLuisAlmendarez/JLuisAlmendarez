@@ -31,9 +31,9 @@ Data Science and Engineering professional focused on machine learning, data engi
 
 ### AI & Machine Learning
 
-![Machine Learning (Supervised & Unsupervised)](https://img.shields.io/badge/Machine%20Learning%20(Supervised%20%26%20Unsupervised)-8952C7?style=flat-square)
-![Deep Learning (Neural Network Architectures)](https://img.shields.io/badge/Deep%20Learning%20(Neural%20Network%20Architectures)-8952C7?style=flat-square)
-![Mathematical Modeling (Regression & Optimization)](https://img.shields.io/badge/Mathematical%20Modeling%20(Regression%20%26%20Optimization)-8952C7?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8952C7?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8952C7?style=flat-square)
+![Mathematical Modeling](https://img.shields.io/badge/Mathematical%20Modeling-8952C7?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-8952C7?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn + XGBoost](https://img.shields.io/badge/Scikit--learn%20%2B%20XGBoost-8952C7?style=flat-square&logo=scikitlearn&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-8952C7?style=flat-square&logo=mlflow&logoColor=white)
@@ -81,7 +81,9 @@ Data Science and Engineering professional focused on machine learning, data engi
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-246B48?style=flat-square&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-246B48?style=flat-square&logo=nginx&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-246B48?style=flat-square&logo=aqua&logoColor=white)
-![Observability (OpenTelemetry, Loki, Tempo, Prometheus & Grafana)](https://img.shields.io/badge/Observability%20(OpenTelemetry%2C%20Loki%2C%20Tempo%2C%20Prometheus%20%26%20Grafana)-246B48?style=flat-square)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-246B48?style=flat-square&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-246B48?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana Stack (Loki, Tempo)](https://img.shields.io/badge/Grafana%20Stack%20(Loki%2C%20Tempo)-246B48?style=flat-square&logo=grafana&logoColor=white)
 
 ### Software & Automation
 
